@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="fmath-mathml-java">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/HTMLToWord/src/main/resources/fmath-mathml-java.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
